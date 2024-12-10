@@ -20,6 +20,11 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <link rel="icon" href="/logomain.png" sizes="any" />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4838498612281230"
+          crossOrigin="anonymous"
+        ></script>
       </head>
       <body className={inter.className}>
         <ThemeProvider
